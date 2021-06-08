@@ -2,7 +2,7 @@
 
 **Account-Ticketing-System** is basic ticketing system interacting with customers and agents.
 
-All the accounts and tickets (no matter whose, customer or agent) are in the files called "accounts.txt" and "tickets.txt". These files are edited after logging out of the system, if you made any changes. 
+All the accounts and tickets (no matter whose, customer's or agent's) are in the files called "accounts.txt" and "tickets.txt". These files are edited after logging out of the system, if you have made any changes. 
 
 ### What is this program doing:
 
