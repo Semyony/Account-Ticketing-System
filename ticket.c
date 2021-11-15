@@ -1,19 +1,4 @@
-// ===================================================================================
-//
-//  Assignment:  2 
-//  Milestone:   4
-//  Description: Tickets Header
-// 
-// ===================================================================================
-// 
-//  Name   : Semen Khlavich
-//  ID: 107305203
-//  Email : skhlavich@myseneca.ca
-//  Section : NGG
-//
-// ===================================================================================
 #define _CRT_SECURE_NO_WARNINGS
-
 #include <stdio.h>
 #include <string.h>
 #include "commonHelpers.h"
