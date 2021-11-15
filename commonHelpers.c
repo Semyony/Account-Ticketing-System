@@ -1,18 +1,3 @@
-// ===================================================================================
-//
-//  Assignment:  2 
-//  Milestone:   4
-//  Description: Common Helpers Source
-// 
-// ===================================================================================
-// 
-//  Name   : Semen Khlavich
-//  ID: 107305203
-//  Email : skhlavich@myseneca.ca
-//  Section : NGG
-//
-// ===================================================================================
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <time.h>
