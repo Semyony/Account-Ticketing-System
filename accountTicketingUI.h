@@ -1,18 +1,3 @@
-// ===================================================================================
-//
-//  Assignment:  2 
-//  Milestone:   4
-//  Description: Account Ticketing User Interface Heaeder
-// 
-// ===================================================================================
-// 
-//  Name   : Semen Khlavich
-//  ID: 107305203
-//  Email : skhlavich@myseneca.ca
-//  Section : NGG
-//
-// ===================================================================================
-
 #ifndef ACCOUNTTICKETING_H_
 #define ACCOUNTTICKETING_H_
 #include "account.h"
